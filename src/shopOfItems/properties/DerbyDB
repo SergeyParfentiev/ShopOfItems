@@ -1,0 +1,4 @@
+classInstance = org.apache.derby.jdbc.EmbeddedDriver
+URL = jdbc:derby:shopOfItemsDB;create=true
+UserName =
+Password =

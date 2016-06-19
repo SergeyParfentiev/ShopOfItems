@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Jun 18 18:06:58 EEST 2016:
+ Производится загрузка Derby версии The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): экземпляр a816c00e-0155-640c-f044-0000029d5490
+в каталоге базы данных P:\Programs\ShopOfItems\TollsForShopDB sun.misc.Launcher$AppClassLoader@3cdc5434 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_79-b15
+user.dir=P:\Programs\ShopOfItems
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=null
+Запущен загрузчик классов базы данных - derby.database.classpath=''
